@@ -9,10 +9,10 @@
             font-family: Arial, sans-serif;
             margin: 0;
             padding: 0;
-            background-color: #f4f4f4;
+            background-color: #120a8f;
         }
         header {
-            background-color: #4CAF50;
+            background-color: #120a8f;
             color: white;
             padding: 1em 0;
             text-align: center;
@@ -36,7 +36,7 @@
             padding: 2em;
         }
         .button {
-            background-color: #4CAF50;
+            background-color: #008080;
             color: white;
             padding: 15px 20px;
             text-align: center;
@@ -45,7 +45,7 @@
             border-radius: 5px;
         }
         .button:hover {
-            background-color: #45a049;
+            background-color: #008080;
         }
     </style>
 </head>
