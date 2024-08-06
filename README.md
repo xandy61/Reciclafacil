@@ -64,55 +64,7 @@
 
 </body>
 </html>
-   </style>
-       body {
-            font-family: Arial, sans-serif;
-            margin: 0;
-            padding: 0;
-            background-color: #f4f4f4;
-        }
-        header {
-            background-color: #4CAF50;
-            color: white;
-            padding: 1em 0;
-            text-align: center;
-        }
-        nav {
-            display: flex;
-            justify-content: center;
-            background-color: #333;
-        }
-        nav a {
-            color: white;
-            padding: 14px 20px;
-            text-decoration: none;
-            text-align: center;
-        }
-        nav a:hover {
-            background-color: #ddd;
-            color: black;
-        }
-        .container {
-            padding: 2em;
-        }
-        .button {
-            background-color: #4CAF50;
-            color: white;
-            padding: 15px 20px;
-            text-align: center;
-            text-decoration: none;
-            display: inline-block;
-            border-radius: 5px;
-        }
-        .button:hover {
-            background-color: #45a049;
-        }
-        footer {
-            background-color: #333;
-            color: white;
-            text-align: center;
-            padding: 1em 0;
-            position: fixed;
-            width: 100%;
-            bottom: 0;
-        }
+   <style></style>
+       <body></body>
+<font-family: Arial, sans-serif>
+<margin></margin>0;
