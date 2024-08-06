@@ -48,7 +48,7 @@
             <h2>Contato</h2>
             <p>Entre em contato conosco para saber mais ou se juntar aos nossos projetos!</p>
             <form>
-                <label for="nome">Nome:</label>
+                <label for="nome">Alexandre, Gustavo, Luigi, Leonardo, Luiz, Daniel:</label>
                 <input type="text" id="nome" name="nome">
                 <br>
                 <label for="email">Email:</label>
