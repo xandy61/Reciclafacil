@@ -60,10 +60,11 @@
         <a href="#projetos">Projetos</a>
         <a href="#dicas">Dicas e Recursos</a>
         <a href="#contato">Contato</a>
+        <a href="#trabalho">Inicio</a>
     </nav>
     <div class="container">
-        <h2>Bem-vindo ao nosso site!</h2>
-        <p>Aqui, você vai descobrir a importância da reciclagem e como você pode contribuir para um mundo mais sustentável.</p>
+        <h2>Bem-vindo ao site Reciclafacil!</h2>
+        <p>Aqui, sera onde você ira saber mais sobre a importancia sobre a reciclagem.</p>
         <a href="#sobre-nos" class="button">Saiba Mais</a>
     </div>
 </body>
