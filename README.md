@@ -51,7 +51,7 @@
                 <label for="nome">Alexandre, Gustavo, Luigi, Leonardo, Luiz, Daniel:</label>
                 <input type="text" id="nome" name="nome">
                 <br>
-                <label for="email">Email:</label>
+                <label for="email">Email:Alexandre.ribeiro.050809@alunosjc.sp.gov.br</label>
                 <input type="email" id="email" name="email">
                 <br>
                 <label for="mensagem">Mensagem:</label>
