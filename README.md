@@ -9,36 +9,53 @@
             font-family: Arial, sans-serif;
             margin: 0;
             padding: 0;
-            background-color: #120a8f;}
+            background-color: #f4f4f4;
+        }
         header {
-            background-color: #120a8f;
+            background-color: #4CAF50;
             color: white;
             padding: 1em 0;
-            text-align: center;}
+            text-align: center;
+        }
         nav {
             display: flex;
             justify-content: center;
-            background-color: #333;}
+            background-color: #333;
+        }
         nav a {
             color: white;
             padding: 14px 20px;
             text-decoration: none;
-            text-align: center;}
+            text-align: center;
+        }
         nav a:hover {
             background-color: #ddd;
-            color: black;}
+            color: black;
+        }
         .container {
-            padding: 2em;}
+            padding: 2em;
+        }
         .button {
-            background-color: #008080;
+            background-color: #4CAF50;
             color: white;
             padding: 15px 20px;
             text-align: center;
             text-decoration: none;
             display: inline-block;
-            border-radius: 5px;}
+            border-radius: 5px;
+        }
         .button:hover {
-            background-color: #008080;}
+            background-color: #45a049;
+        }
+        footer {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 1em 0;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
     </style>
 </head>
 <body>
@@ -52,12 +69,53 @@
         <a href="#projetos">Projetos</a>
         <a href="#dicas">Dicas e Recursos</a>
         <a href="#contato">Contato</a>
-        <a href="#trabalho">Inicio</a>
     </nav>
     <div class="container">
-        <h2>Bem-vindo ao site Reciclafacil!</h2>
-        <p>Aqui, sera onde você ira saber mais sobre a importancia sobre a reciclagem.</p>
-        <a href="#sobre-nos" class="button">Saiba Mais</a>
+        <section id="sobre-nos">
+            <h2>Sobre Nós</h2>
+            <p>Somos um grupo dedicado a promover a reciclagem e a sustentabilidade em nossa comunidade.</p>
+        </section>
+        <section id="o-que-e">
+            <h2>O Que é Reciclagem?</h2>
+            <p>A reciclagem é o processo de converter resíduos em novos materiais e objetos. É uma alternativa à disposição de resíduos convencionais que pode economizar materiais e ajudar a reduzir a emissão de gases de efeito estufa.</p>
+        </section>
+        <section id="projetos">
+            <h2>Projetos</h2>
+            <p>Confira alguns dos nossos projetos recentes que ajudam a promover a reciclagem.</p>
+            <ul>
+                <li>Projeto 1: Reciclagem de Plásticos</li>
+                <li>Projeto 2: Compostagem Comunitária</li>
+                <li>Projeto 3: Educação Ambiental em Escolas</li>
+            </ul>
+        </section>
+        <section id="dicas">
+            <h2>Dicas e Recursos</h2>
+            <p>Aqui estão algumas dicas práticas para reciclar no seu dia a dia:</p>
+            <ul>
+                <li>Separe o lixo reciclável do lixo orgânico.</li>
+                <li>Limpe os materiais recicláveis antes de descartá-los.</li>
+                <li>Informe-se sobre os pontos de coleta na sua cidade.</li>
+            </ul>
+        </section>
+        <section id="contato">
+            <h2>Contato</h2>
+            <p>Entre em contato conosco para saber mais ou se juntar aos nossos projetos!</p>
+            <form>
+                <label for="nome">Nome:</label>
+                <input type="text" id="nome" name="nome">
+                <br>
+                <label for="email">Email:</label>
+                <input type="email" id="email" name="email">
+                <br>
+                <label for="mensagem">Mensagem:</label>
+                <textarea id="mensagem" name="mensagem"></textarea>
+                <br>
+                <button type="submit" class="button">Enviar</button>
+            </form>
+        </section>
     </div>
+    <footer>
+        <p>&copy; 2024 Reciclagem: Transformando o Futuro</p>
+    </footer>
 </body>
 </html>
