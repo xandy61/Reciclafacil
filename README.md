@@ -54,13 +54,65 @@
                 <label for="email">Email: Alexandre.ribeiro.050809@alunosjc.sp.gov.br</label>
                 <input type="email" id="email" name="email">
                 <br>
-                <button type="submit" class="button">Enviar</button>
              </form>
         </section>
     </div>
     <footer>
         <p>&copy; 2024 Reciclagem: Transformando o Futuro</p>
-    </footer>           
-    
+    </footer>  
+            
+
 </body>
 </html>
+   </style>
+       body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        header {
+            background-color: #4CAF50;
+            color: white;
+            padding: 1em 0;
+            text-align: center;
+        }
+        nav {
+            display: flex;
+            justify-content: center;
+            background-color: #333;
+        }
+        nav a {
+            color: white;
+            padding: 14px 20px;
+            text-decoration: none;
+            text-align: center;
+        }
+        nav a:hover {
+            background-color: #ddd;
+            color: black;
+        }
+        .container {
+            padding: 2em;
+        }
+        .button {
+            background-color: #4CAF50;
+            color: white;
+            padding: 15px 20px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            border-radius: 5px;
+        }
+        .button:hover {
+            background-color: #45a049;
+        }
+        footer {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 1em 0;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
