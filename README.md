@@ -9,32 +9,26 @@
             font-family: Arial, sans-serif;
             margin: 0;
             padding: 0;
-            background-color: #120a8f;
-        }
+            background-color: #120a8f;}
         header {
             background-color: #120a8f;
             color: white;
             padding: 1em 0;
-            text-align: center;
-        }
+            text-align: center;}
         nav {
             display: flex;
             justify-content: center;
-            background-color: #333;
-        }
+            background-color: #333;}
         nav a {
             color: white;
             padding: 14px 20px;
             text-decoration: none;
-            text-align: center;
-        }
+            text-align: center;}
         nav a:hover {
             background-color: #ddd;
-            color: black;
-        }
+            color: black;}
         .container {
-            padding: 2em;
-        }
+            padding: 2em;}
         .button {
             background-color: #008080;
             color: white;
@@ -42,11 +36,9 @@
             text-align: center;
             text-decoration: none;
             display: inline-block;
-            border-radius: 5px;
-        }
+            border-radius: 5px;}
         .button:hover {
-            background-color: #008080;
-        }
+            background-color: #008080;}
     </style>
 </head>
 <body>
