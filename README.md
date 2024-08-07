@@ -64,7 +64,7 @@
 
 </body>
 </html>
-   </style>
+   <style></style>
        <body></body>
 <font-family: Arial, sans-serif>
 <margin></margin>0;
