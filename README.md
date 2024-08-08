@@ -61,4 +61,4 @@
         <p>&copy; 2024 Reciclagem: Transformando o Futuro</p>
     </footer>  
             <stely>
-    <p Background: LightGrey </p>
+    <p> Background: LightGrey </p>
