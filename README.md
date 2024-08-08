@@ -68,4 +68,5 @@
   </style>
        <body></body>
 <font-family: Arial, sans-serif>
- <p style=”color: blue; background-color: red”
+   
+<p  background-color: LightGrey">cinzaclaro</p>
