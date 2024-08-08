@@ -64,7 +64,9 @@
 
 </body>
 </html>
-   <style></style>
+   </style>
        <body></body>
 <font-family: Arial, sans-serif>
-<p style=”color:LightGre"
+p{ 
+    color: #ff00ff; 
+}
