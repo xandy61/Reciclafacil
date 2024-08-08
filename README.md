@@ -67,6 +67,4 @@
    </style>
        <body></body>
 <font-family: Arial, sans-serif>
-p{ 
-    color: #ff00ff; 
-}
+ <p style=”color: blue; background-color: red”>Azul</p>
