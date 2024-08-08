@@ -60,13 +60,5 @@
     <footer>
         <p>&copy; 2024 Reciclagem: Transformando o Futuro</p>
     </footer>  
-            
-
-</body>
-</html>
- 
-  </style>
-       <body></body>
-<font-family: Arial, sans-serif>
-   
-<p  background-color: LightGrey"
+            <stely>
+    <p Background: LightGrey </p>
