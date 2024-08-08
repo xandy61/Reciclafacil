@@ -59,6 +59,6 @@
     </div>
     <footer>
         <p>&copy; 2024 Reciclagem: Transformando o Futuro</p>
-    </footer>  
-            body {
-     background-color #D3D3D3;
+    </footer>
+ <body>
+ <p> background-color: #D3D3D3;
