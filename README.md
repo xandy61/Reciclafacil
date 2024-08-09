@@ -61,4 +61,4 @@
         <p>&copy; 2024 Reciclagem: Transformando o Futuro</p>
     </footer>
  <body>
- <p> background-color: Verde;
+ <p> background-color: green;
