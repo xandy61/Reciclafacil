@@ -48,7 +48,7 @@
             <h2>Contato</h2>
             <p>Entre em contato conosco para saber mais ou se juntar aos nossos projetos!</p>
             <form>
-                <label for="nome">Alexandre, Gustavo, Luigi, Leonardo, Luiz, Daniel:</label>
+                <label for="nome">Alexandre, Gustavo, Luigi, Leonardo, Luiz:</label>
                 <input type="text" id="nome" name="nome">
                 <br>
                 <label for="email">Email: Alexandre.ribeiro.050809@alunosjc.sp.gov.br</label>
@@ -61,4 +61,4 @@
         <p>&copy; 2024 Reciclagem: Transformando o Futuro</p>
     </footer>
  <body>
- <p> background-color: #D3D3D3;
+ <p> background-color: Verde;
