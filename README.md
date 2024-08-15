@@ -36,8 +36,8 @@
             </ul>
         </section>
         <section id="Serviços">
-            <h2>Dicas e Recursos</h2>
-            <p>Aqui estão algumas dicas práticas para reciclar no seu dia a dia:</p>
+            <h2>Seriviços</h2>
+            <p>Aqui estão alguns locais que temos o serviço:</p>
             <ul>
             </ul>
         </section>
