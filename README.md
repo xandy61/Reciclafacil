@@ -11,11 +11,11 @@
         <p>Unidos pela Sustentabilidade</p>
     </header>
     <nav>
-        <a href="#sobre-nos">Sobre Nós</a>
-        <a href="#o-que-e">O Que é Reciclagem?</a>
-        <a href="#projetos">Projetos</a>
-        <a href="#dicas">Dicas e Recursos</a>
-        <a href="#contato">Contato</a>
+    <li><a href="#Inicio">Inicio</a></li>
+    <li><a href="#o-que-e">O Que é Reciclagem?</a></li>
+    <li><a href="#projetos">Projetos</a></li>
+    <li><a href="#dicas">Dicas e Recursos</a></li>
+    <li><a href="#contato">Contato</a></li>
     </nav>
     <div class="container">
         <section id="sobre-nos">
@@ -61,4 +61,5 @@
         <p>&copy; 2024 Reciclagem: Transformando o Futuro</p>
     </footer>
  <body>
- <p> background-color: green;
+<!------Inicio----->
+ <section class="Inicio" id="Inicio
