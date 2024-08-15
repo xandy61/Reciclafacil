@@ -36,7 +36,7 @@
             </ul>
         </section>
         <section id="Serviços">
-            <h2>Seriviços</h2>
+            <h2>Serviços</h2>
             <p>Aqui estão alguns locais que temos o serviço:</p>
             <ul>
             </ul>
