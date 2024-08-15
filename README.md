@@ -18,9 +18,9 @@
     <li><a href="#contato">Contato</a></li>
     </nav>
     <div class="container">
-        <section id="sobre-nos">
+        <section id="Inicio">
             <h2>Inicio</h2>
-            <p>Aqui é o reciclafacil, O grande site de eliminar os solidos reciclavei, simplificando é reciclar</p>
+            <p>Aqui é o reciclafacil, O grande site de eliminar os solidos reciclavei, simplificando, é reciclar</p>
         </section>
         <section id="o-que-e">
             <h2>O Que é Reciclagem?</h2>
