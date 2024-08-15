@@ -14,7 +14,7 @@
     <li><a href="#Inicio">Inicio</a></li>
     <li><a href="#o-que-e">O Que é Reciclagem?</a></li>
     <li><a href="#projetos">Projetos</a></li>
-    <li><a href="#dicas">Dicas e Recursos</a></li>
+    <li><a href="#Serviço">Dicas e Recursos</a></li>
     <li><a href="#contato">Contato</a></li>
     </nav>
     <div class="container">
@@ -35,13 +35,10 @@
                 <li>Projeto 3: Educação Ambiental em Escolas</li>
             </ul>
         </section>
-        <section id="dicas">
+        <section id="Serviços">
             <h2>Dicas e Recursos</h2>
             <p>Aqui estão algumas dicas práticas para reciclar no seu dia a dia:</p>
             <ul>
-                <li>Separe o lixo reciclável do lixo orgânico.</li>
-                <li>Limpe os materiais recicláveis antes de descartá-los.</li>
-                <li>Informe-se sobre os pontos de coleta na sua cidade.</li>
             </ul>
         </section>
         <section id="contato">
