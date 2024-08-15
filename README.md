@@ -14,7 +14,7 @@
     <li><a href="#Inicio">Inicio</a></li>
     <li><a href="#o-que-e">O Que é Reciclagem?</a></li>
     <li><a href="#projetos">Projetos</a></li>
-    <li><a href="#Serviço">Dicas e Recursos</a></li>
+    <li><a href="#Serviço">Serviço</a></li>
     <li><a href="#contato">Contato</a></li>
     </nav>
     <div class="container">
