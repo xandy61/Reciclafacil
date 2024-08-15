@@ -35,8 +35,8 @@
                 <li>Projeto 3: Educação Ambiental em Escolas</li>
             </ul>
         </section>
-        <section id="Serviços">
-            <h2>Serviços</h2>
+        <section id="Serviço">
+            <h2>Serviço</h2>
             <p>Aqui estão alguns locais que temos o serviço:</p>
             <ul>
             </ul>
