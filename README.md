@@ -19,8 +19,8 @@
     </nav>
     <div class="container">
         <section id="sobre-nos">
-            <h2>Sobre Nós</h2>
-            <p>Somos um grupo dedicado a promover a reciclagem e a sustentabilidade em nossa comunidade.</p>
+            <h2>Inicio</h2>
+            <p>Aqui é o reciclafacil, O grande site de eliminar os solidos reciclavei, simplificando é reciclar</p>
         </section>
         <section id="o-que-e">
             <h2>O Que é Reciclagem?</h2>
@@ -61,5 +61,4 @@
         <p>&copy; 2024 Reciclagem: Transformando o Futuro</p>
     </footer>
  <body>
-<!------Inicio----->
- <section class="Inicio" id="Inicio
+
