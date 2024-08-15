@@ -30,9 +30,9 @@
             <h2>Projetos</h2>
             <p>Confira alguns dos nossos projetos recentes que ajudam a promover a reciclagem.</p>
             <ul>
-                <li>Projeto 1: Reciclagem de Plásticos</li>
-                <li>Projeto 2: Compostagem Comunitária</li>
-                <li>Projeto 3: Educação Ambiental em Escolas</li>
+                <li>Projeto 1: Ajudar A Achar Pontos De Reciclamento </li>
+                <li>Projeto 2: Alinhar A reciclagem a o mundo</li>
+                <li>Projeto 3: Eliminar Residos Solidos</li>
             </ul>
         </section>
         <section id="Serviço">
