@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/ae52386f-c6ae-408e-94fe-dcde593407af)
+
 <!DOCTYPE html> 
 <html lang="pt-br">
 <head>
@@ -39,8 +39,8 @@
         <section id="Serviço">
             <h2>Serviço</h2>
             <p>Aqui estão alguns locais que temos o serviço:</p>
-            <ul>
-            </ul>
+            ![image](https://github.com/user-attachments/assets/aae6ce0a-5e16-4db1-8ab3-372aaa178b97)
+    </ul>
         </section>
         <section id="contato">
             <h2>Contato</h2>
