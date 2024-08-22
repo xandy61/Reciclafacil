@@ -40,7 +40,8 @@
             <h2>Serviço</h2>
             <p>Aqui estão alguns locais que temos o serviço:</p>
                                                                                                                                                                                     
-   ![image](https://github.com/user-attachments/assets/aae6ce0a-5e16-4db1-8ab3-372aaa178b97)
+   ![image](https://github.com/user-attachments/assets/5df5a8be-43bd-4063-9d22-92bf6e1131eb)
+
     
 </ul> 
 </section>
