@@ -20,7 +20,7 @@
     <div class="container">
         <section id="Inicio">
             <h2>Inicio</h2>
-            <p>Aqui é o reciclafacil, O grande site de eliminar os solidos reciclavei, simplificando, é reciclar</p>
+            <p>Aqui é o reciclafacil, O grande site de eliminar os solidos reciclavei, onde vamos ajudar a reciclar, com pontos de reciclagem e como ajudar a salvar o mundo</p>
         </section>
         <section id="o-que-e">
             <h2>O Que é Reciclagem?</h2>
