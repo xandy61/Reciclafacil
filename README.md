@@ -39,8 +39,9 @@
         <section id="Serviço">
             <h2>Serviço</h2>
             <p>Aqui estão alguns locais que temos o serviço:</p>
-            ![image](https://github.com/user-attachments/assets/aae6ce0a-5e16-4db1-8ab3-372aaa178b97)
-    </ul>
+                                                                                                                                                                                    
+   ![image](https://github.com/user-attachments/assets/aae6ce0a-5e16-4db1-8ab3-372aaa178b97)
+    
         </section>
         <section id="contato">
             <h2>Contato</h2>
