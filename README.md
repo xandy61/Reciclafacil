@@ -42,7 +42,8 @@
                                                                                                                                                                                     
    ![image](https://github.com/user-attachments/assets/aae6ce0a-5e16-4db1-8ab3-372aaa178b97)
     
-        </section>
+</ul> 
+</section>
         <section id="contato">
             <h2>Contato</h2>
             <p>Entre em contato conosco para saber mais ou se juntar aos nossos projetos!</p>
