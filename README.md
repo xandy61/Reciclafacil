@@ -27,23 +27,20 @@
             <h2>O Que é Reciclagem?</h2>
             <p>A reciclagem é o processo de converter resíduos em novos materiais e objetos. É uma alternativa à disposição de resíduos convencionais que pode economizar materiais e ajudar a reduzir a emissão de gases de efeito estufa.</p>
         </section>
-        <section id="projetos">
+        <section id="Serviço">
+            <h2>Serviço</h2>
+            <p>Aqui estão alguns exemplos que temos o serviço:</p>
+           <li><a href="Lixo metalico"></a></li>                                                                                                                                                     
+       </ul> 
+     </section>
+<section id="projetos">
             <h2>Projetos</h2>
             <p>Confira alguns dos nossos projetos recentes que ajudam a promover a reciclagem.</p>
             <ul>
                 <li>Projeto 1: Ajudar A Achar Pontos De Reciclamento </li>
                 <li>Projeto 2: Alinhar A reciclagem a o mundo</li>
                 <li>Projeto 3: Eliminar Residos Solidos</li>
-            </ul>
-        </section>
-        <section id="Serviço">
-            <h2>Serviço</h2>
-            <p>Aqui estão alguns exemplos que temos o serviço:</p>
-           <li><a href="Lixo metalico"></a></li>                                                                                                                                                     
-   
-    
-</ul> 
-</section>
+            </ul>                                                                                                                                                  
         <section id="contato">
             <h2>Contato</h2>
             <p>Entre em contato conosco para saber mais ou se juntar aos nossos projetos!</p>
