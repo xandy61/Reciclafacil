@@ -39,10 +39,8 @@
         <section id="Serviço">
             <h2>Serviço</h2>
             <p>Aqui estão alguns exemplos que temos o serviço:</p>
-                                                                                                                                                                                    
-   ![image](https://github.com/user-attachments/assets/5df5a8be-43bd-4063-9d22-92bf6e1131eb)
- 
-   ![image](https://github.com/user-attachments/assets/df7125e5-3e74-401e-a52e-555885aae06e)
+           <p>Lixo                                                                                                                                                     
+   
     
 </ul> 
 </section>
