@@ -30,7 +30,7 @@
         <section id="Serviço">
             <h2>Serviço</h2>
             <p>Aqui estão alguns exemplos que temos o serviço:</p>
-           <li><a href="Lixo metalico"></a></li>                                                                                                                                                     
+           <li><a href="Lixo_metalico"></a></li>                                                                                                                                                     
        </ul> 
      </section>
 <section id="projetos">
@@ -41,7 +41,29 @@
                 <li>Projeto 2: Alinhar A reciclagem a o mundo</li>
                 <li>Projeto 3: Eliminar Residos Solidos</li>
             </ul>                                                                                                                                                  
-        <section id="contato">
+</section>  
+ <section id=Lixo_metalico
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<section id="contato">
             <h2>Contato</h2>
             <p>Entre em contato conosco para saber mais ou se juntar aos nossos projetos!</p>
             <form>
@@ -53,7 +75,19 @@
                 <br>
              </form>
         </section>
-    </div>
+      
+
+
+
+
+
+
+
+
+
+
+
+</div>
     <footer>
         <p>&copy; 2024 Reciclagem: Transformando o Futuro</p>
     </footer>
