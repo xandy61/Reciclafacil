@@ -30,65 +30,27 @@
         <section id="Serviço">
             <h2>Serviço</h2>
             <p>Aqui estão alguns exemplos que temos o serviço:</p>
-             <li><a href="Lixo-metalico">Lixo metálico</a></li>                                                                                                                                                     
-       </ul> 
-     </section>
-<section id="projetos">
-            <h2>Projetos</h2>
-            <p>Confira alguns dos nossos projetos recentes que ajudam a promover a reciclagem.</p>
-            <ul>
-                <li>Projeto 1: Ajudar A Achar Pontos De Reciclamento </li>
-                <li>Projeto 2: Alinhar A reciclagem a o mundo</li>
-                <li>Projeto 3: Eliminar Residos Solidos</li>
-            </ul>                                                                                                                                                  
-</section>  
- <section id="Lixo-metalico">
-    <h2>Lixo metálico</h2>
-<p>
+             <li><a href="Lixo-metalico">Lixo metálico</a></li>                                                                                    <div>
+<section id="Lixo-metalico">
+   <h2>Lixo metalico</h2>
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<section id="contato">
-            <h2>Contato</h2>
-            <p>Entre em contato conosco para saber mais ou se juntar aos nossos projetos!</p>
-            <form>
-                <label for="nome">Alexandre, Gustavo, Luigi, Leonardo, Luiz:</label>
-                <input type="text" id="nome" name="nome">
-                <br>
-                <label for="email">Email: Alexandre.ribeiro.050809@alunosjc.sp.gov.br</label>
-                <input type="email" id="email" name="email">
-                <br>
-             </form>
-        </section>
       
 
-
-
-
-
-
-
-
-
-
-
 </div>
-    <footer>
+ 
+
+
+
+
+
+
+
+
+
+<footer>
         <p>&copy; 2024 Reciclagem: Transformando o Futuro</p>
     </footer>
  <body>
