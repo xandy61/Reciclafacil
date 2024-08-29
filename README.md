@@ -39,7 +39,7 @@
         <section id="Serviço">
             <h2>Serviço</h2>
             <p>Aqui estão alguns exemplos que temos o serviço:</p>
-           <p>Lixo                                                                                                                                                     
+           <li><a href="Lixo metalico"></a></li>                                                                                                                                                     
    
     
 </ul> 
