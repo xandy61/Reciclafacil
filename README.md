@@ -42,7 +42,7 @@
                 <li>Projeto 3: Eliminar Residos Solidos</li>
             </ul>                                                                                                                                                  
 </section>  
- <section id="Lixo_metalico">
+ <section id="Lixo-metalico">
     <h2>Lixo metálico</h2>
 <p>
 
