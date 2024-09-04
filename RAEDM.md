@@ -49,14 +49,4 @@
    
    
    
-   
-   <style>
-     body{
-         height: 100vh;  
-         
-         background-image: url(https://static.vecteezy.com/ti/vetor-gratis/p1/11058150-fundo-branco-em-branco-com-design-ondulado-verde-e-simples-adequado-para-fundo-de-apresentacao-vetor.jpg);
-         background-size: 100%          
-    
-     }
-    </style>
-</body>
+
