@@ -1,10 +1,8 @@
-
 <!DOCTYPE html> 
 <html lang="pt-br">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<style="background: White">
 
 </head>
 <body>
@@ -31,28 +29,33 @@
         <section id="Serviço">
             <h2>Serviço</h2>
             <p>Aqui estão alguns exemplos que temos o serviço:</p>
-             <li><a href="Lixo-metalico">Lixo metálico</a></li>                                                                                    <div>
-<section id="Lixo-metalico">
-   <h2>Lixo metalico</h2>
+             <h2 style="color: yellow">Lixo metálico</h2>                                                                                   <div>
+    <img src="https://cdn.discordapp.com/attachments/1018992738349355059/1280943589911691356/image.png?ex=66d9eb2e&is=66d899ae&hm=fe677b5e116c603c5401f2cd5e45d7dcf256b410a9b805c7fd057e97ac7511a0&"
 
 
 
-
-      
-
-</div>
- 
+    <h2 style="color: green;">lixo vidro</h2>
+<img spc="https://cdn.discordapp.com/attachments/1018992738349355059/1280943086700072990/image.png?ex=66d9eab6&is=66d89936&hm=767a53676a183ca9591097b99c3c880814fa5a49ec8d1e4b9e05fd74df1df7f3&"  
 
 
-
-
-
-
-
-
-
-<footer>
-        <p>&copy; 2024 Reciclagem: Transformando o Futuro</p>
-    </footer>
- <body>
-
+</div> 
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   <style>
+     body{
+         height: 100vh;  
+         
+         background-image: url(https://static.vecteezy.com/ti/vetor-gratis/p1/11058150-fundo-branco-em-branco-com-design-ondulado-verde-e-simples-adequado-para-fundo-de-apresentacao-vetor.jpg);
+         background-size: 100%          
+    
+     }
+    </style>
