@@ -31,10 +31,12 @@
             <p>Aqui estão alguns exemplos que temos o serviço:</p>
              <h2 style="color: yellow">Lixo metálico</h2>                                                                                   <div>
     <img src="https://cdn.discordapp.com/attachments/1018992738349355059/1280943589911691356/image.png?ex=66d9eb2e&is=66d899ae&hm=fe677b5e116c603c5401f2cd5e45d7dcf256b410a9b805c7fd057e97ac7511a0&"
-        
-</section>
+      </div>  
 
-
+<h2>Lixo de papel</h2>
+     <h2>lixo de platico</h2>
+          <h2>Lixo de vidro</h2>
+    
    
    
 
