@@ -19,8 +19,7 @@
     </nav>
     <div class="container">
         <section id="Inicio">
-            <h2>Inicio</h2>
-            <p>Aqui é o reciclafacil, O grande site de eliminar os solidos reciclavei, onde vamos ajudar a reciclar, com pontos de reciclagem e como ajudar a salvar o mundo</p>
+            <section><p>O grande site que ajuda eliminar os sólidos recicláveis , onde vamos ajudar a reciclar, com pontos de reciclagem e como ajudar a salvar o mundo</p>
         </section>
         <section id="o-que-e">
             <h2>O Que é Reciclagem?</h2>
@@ -34,7 +33,7 @@
       </div>  
 
 <h2>Lixo de papel</h2>
-     <h2>lixo de platico</h2>
+     <h2>lixo de plástico</h2>
           <h2>Lixo de vidro</h2>
     
    
